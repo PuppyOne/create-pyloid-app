@@ -34,3 +34,6 @@ pnpm-lock.yaml
 
 # bun
 bun-lock.yaml
+
+# don't ignore build scripts
+!src-pyloid/build/
